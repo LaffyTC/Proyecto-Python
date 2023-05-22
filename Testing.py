@@ -40,3 +40,7 @@ print(numeros)
 
 numeros.sort(reverse=True)
 print(numeros)
+
+opcion = 0
+while opcion !=2:
+    print()
